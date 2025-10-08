@@ -24,7 +24,6 @@ La diferencia principal radica en el **alcance** y la **filosofía de diseño**:
 |**Alcance**|Ideal para APIs, microservicios y proyectos pequeños que requieren flexibilidad.|Ideal para aplicaciones complejas, bases de datos múltiples y proyectos empresariales.|
 |**Componentes**|No incluye ORM, autenticación o formularios por defecto.|Incluye ORM, panel de administración, autenticación y plantillas como estándar.|
 
-Exportar a Hojas de cálculo
 
 **Argumento:** **Flask** ofrece **libertad total** para elegir cada componente externo. **Django** ofrece una **convención** preestablecida y herramientas completas, acelerando proyectos grandes a costa de reducir la flexibilidad.
 
